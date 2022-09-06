@@ -1,4 +1,4 @@
-chids='irak4_bayer irak4_merck irak4_pfizer irak4_roche'
+chids='dataset1 dataset2 dataset3 dataset4'
 powers='6 15'
 seeds=$(seq 19 23)
 

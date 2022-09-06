@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chids='irak4_bayer irak4_merck irak4_pfizer'
+chids='dataset1 dataset2 dataset3'
 ga_steps=100 
 power=6
 targets=$(seq 0 14)

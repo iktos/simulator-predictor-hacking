@@ -1,0 +1,19 @@
+[flake8]
+max-line-length = 80
+ignore=E128,E124,W503,E501
+exclude =
+    .tox,
+    .git,
+    __pycache__,
+    build,
+    dist,
+    *.pyc,
+    *.egg-info,
+    .cache,
+    .eggs
+max-complexity = 10
+select = C,E,F,W,B,B950
+import-order-style = google
+application-import-names = flake8
+format = ${cyan}%(path)s${reset}:${yellow_bold}%(row)d${reset}:${green_bold}%(col)d${reset}: ${red_bold}%(code)s${reset} %(text)s
+
