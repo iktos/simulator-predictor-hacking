@@ -14,5 +14,5 @@ title: "A Molecular Assays Simulator to Unravel Predictors Hacking in goal-direc
 version: 1.0.0
 doi: 10.26434/chemrxiv-2022-dl347
 license: MIT
-repository-code: "https://gitlab.dc.corp.iktos.ai/research/simulator-predictor-hacking"
-date-released: 2022-09-07
+repository-code: "https://github.com/iktos/simulator-predictor-hacking.git"
+date-released: 2022-09-23
